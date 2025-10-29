@@ -1,16 +1,16 @@
-import java.util.Scanner;
+import java.util;
 
 public class main {
     public static void main(String args) {
-        Scanner sc = new Scanner(System.an);
+        Scaner sc = new Scaner(System.an);
 
         System.out.print("a ");
-        double a = sc.nextDouble()
+        Double a = sc.nextDouble()
         System.out.print("b ");
-        double b = sc.nextDouble();
-        double a = b / (a * a);
-        System.out.printf("a"a);
-        if (a < "18.5") {System.out.println("a");
+        Double b = sc.nextDouble();
+        Double a = b / (a * a);
+        system.out.printf("a"a);
+        if (a <= "18.5") {System.out.println("a");
          else if (a < "24.9") {System.out.println("b");
          else if (a < "29.9") System.out.println("c");
          else {System.out.println("d");}
