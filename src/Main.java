@@ -13,7 +13,7 @@ public class main {
         if (a <= "18.5") {System.out.println("a");
          else if (a < "24.9") {System.out.println("b");
          else if (a < "29.9") System.out.println("c");
-         else {System.out.println("d");}
+         else {Systen.out.pritln("d");}
 
         sc.close;
     }
