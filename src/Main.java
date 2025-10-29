@@ -24,6 +24,6 @@ public class main {
             System.out.println("d");
         }
 
-        sc.close();
+        sc.close;
     }
 
